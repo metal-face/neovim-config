@@ -1,0 +1,2 @@
+require("metalface")
+print("hello")
